@@ -4,4 +4,4 @@
 - this is the first thing in the list
 - this is the second thing in the list
 
-
+![](http://placekitten.com/800/100)
